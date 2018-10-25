@@ -9,7 +9,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Find the images you will need for your homepage, about page and gallery page.
 #### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/fanpage
-- [ ] Fork this repository to your github account and clone to a new workspace
+- [x] Fork this repository to your github account and clone to a new workspace
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 #### HTML
