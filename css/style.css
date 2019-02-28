@@ -13,8 +13,27 @@ a {
 
 .main {
     height: 100%;
-}
+    background-image: url("http://cdn.perfectwallpaper.co/i/desktop/2560/1440/50/8/sXa1Hp-cartoon-panda-wallpapers.jpg")
+    }
 .social-image{
     width: 30px;
     margin: 15px;
+}
+
+.gallery{
+    display: flex;
+    justify-content:space-around;
+    margin: 130px;
+    border:10px dotted black;
+    
+}
+.thumbnail-image{
+    width: 200px;
+    height:200px;
+    border-color: blue;
+    border:10px double;
+}
+.header{
+    font-family: fantasy;
+    
 }
